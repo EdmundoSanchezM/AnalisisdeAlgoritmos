@@ -1,5 +1,5 @@
 # Analisis de Algoritmos
-Profesores:
+Profesores:<br>
 1.- **Dr. Flavio Arturo Sánchez Garfias (Primera Practica)**
   Programa hecho en Python, pero para su visualización es necesario el uso de Jupyter Notebooks o google colab
 2.- **Saul de la O Torres (Las demas practicas)**
